@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shinobu113.github.io/web_test/sitemap.xml
+Sitemap: https://shinobu113.github.io/web-profile/sitemap.xml
